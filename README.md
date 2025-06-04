@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# Tela de Login com Google + CRUD Simples (Vue.js + Firebase)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Projeto front-end desenvolvido para atividade da disciplina de **Frameworks Modernos para Desenvolvimento de Sistemas** - UNEMAT.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Funcionalidades
+
+✅ Login com conta Google (Firebase Auth)  
+✅ Proteção de rotas (só acessa o dashboard após login)  
+✅ Tela de Dashboard com CRUD local (usando localStorage)  
+✅ Layout moderno e responsivo  
+✅ Sem backend, 100% front-end
+
+## Tecnologias
+
+- Vue 3 (Vite)
+- Firebase Authentication
+- Vue Router
+- LocalStorage
